@@ -1,3 +1,6 @@
+## Thông tin sinh viên
+- Họ và tên: Phạm Tiến Anh
+- MSSV: N21DCCN100
 ## Giới thiệu
 
 RS-Tree Video Analysis là một ứng dụng Python phân tích video sử dụng cấu trúc dữ liệu R-tree để lưu trữ và truy vấn dữ liệu không gian-thời gian (spatial-temporal). Dự án tích hợp YOLOv8 để nhận diện đối tượng (car, person, bicycle) trong video, lưu thông tin vào R-tree.

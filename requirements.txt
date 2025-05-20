@@ -1,0 +1,4 @@
+rtree
+opencv-python
+ultralytics
+ttkbootstrap
